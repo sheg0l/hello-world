@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "Yury Shcheglov",
+    "label": "Project Manager / Product Manager",
+    "picture": "https://www.gravatar.com/avatar/300626a778ebba9a8e4ab0db4a1bddeb",
+    "email": "sheg0l@yandex.ru",
+    "phone": "+79164441286",
+    "summary": [
+        "project management in accordance with conceptions and methodologies PMBOK, ITIL, Agile (Scrum, XP, Lean, Kanban);",
+        "risks management;",
+        "communicative, stress-resistant, focusing on the preferable result in the negotiations;",
+        "mathematical foundation and analytical skills, machine learning, statistics;",
+        "decision making and keeping responsibility;",
+        "technical skill all over the aspects of complicated and sophisticated IT;",
+        "producing technical documentation."
+    ],
+    "location": {
+      "address": "1-2-409, Bolshaya Marfinskaya st",
+      "postalCode": "127427",
+      "city": "Moscow",
+      "countryCode": "RU",
+      "region": "Moscow"
+    },
+    "profiles": [
+      {
+        "network": "StackOverflow",
+        "username": "sheg0l",
+        "url": "https://soundcloud.com/dandymusicnl"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "sheg0l",
+        "url": "https://www.linkedin.com/in/sheg0l/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Yandex",
+      "position": "Project Manager",
+      "website": "http://yandex.ru",
+      "startDate": "2005-10-12",
+      "endDate": "2019-08-31",
+      "summary": "Yandex is a technology company that builds intelligent products and services powered by machine learning. Our goal is to help consumers and businesses better navigate the online and offline world. Since 1997, we have delivered world-class, locally relevant search and information services. Additionally, we have developed market-leading on-demand transportation services, navigation products, and other mobile applications for millions of consumers across the globe.  Yandex, which has 30 offices worldwide, has been listed on the NASDAQ since 2011.",
+      "highlights": [
+        "Produced a high available and high loaded hardware + software network solution for anonimous scraping of sites in the Internet",
+        "Produced a system for getting residential IPs with firefox extension and billing",
+        "Produced infrastructure for assessment of search engine request pages from different engines with the melting of results in real time."
+      ]
+    },
+    {
+      "company": "StroyProectBuro",
+      "position": "System Administrator",
+      "startDate": "2004-12-01",
+      "endDate": "2005-09-30",
+      "summary": "Architecture Projects Bureau"
+    },
+    {
+      "company": "BIS Telecom",
+      "position": "Senior Engineer",
+      "startDate": "2001-02-01",
+      "endDate": "2004-11-30",
+      "summary": "Internet Service Provider"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Moscow State University",
+      "area": "Computer Science",
+      "studyType": "Specialist",
+      "startDate": "2005-10-01",
+      "endDate": "2008-06-24",
+      "gpa": "4.2",
+      "courses": [
+        "M2124: Programming with C#",
+        "M2310: Developing Microsoft ASP.NET Web Applications. Using Visual Studio .NET",
+        "M2389: Programming with Microsoft ADO.NET",
+        "M2524: Developing XML Web Services Using Microsoft ASP.NET",
+        "M2555: Developing Microsoft .NET Applications for Windows"
+      ]
+    },
+    {
+      "institution": "Zhukovsky Airforce Emgineering Academy",
+      "area": "Aircraft Armament Systems Technology",
+      "studyType": "Specialist",
+      "startDate": "1993-07-01",
+      "endDate": "1998-06-24",
+      "gpa": "4.2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Project Manager",
+      "level": "Master",
+      "keywords": [
+        "PMI PMBoK",
+        "ITIL",
+        "Agile"
+      ]
+    },
+    {
+      "name": "Software Engineer",
+      "level": "Beginner",
+      "keywords": [
+        "Python",
+        "JavaScript",
+        "Selenium"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent enough"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Not fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Rugby",
+      "keywords": [
+        "Scrum",
+        "Maul"
+      ]
+    }
+  ]
+}
